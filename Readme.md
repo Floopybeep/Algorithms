@@ -1,0 +1,1 @@
+# This is a script collection for various algorithms I found to be useful
